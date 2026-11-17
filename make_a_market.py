@@ -25,7 +25,7 @@ def main():
     """
     name = input("What's your name? ")
     points = START_POINTS
-    print(f"\nHey {name}, welcome to Make Me A Market.")
+    print(f"\Hey {name}, welcome to Make Me A Market.")
     print("You are spending the day with my friends and I. At every stop")
     print("someone asks you to make a market on something that hasn't")
     print("happened yet. Give a low and a high number.")
